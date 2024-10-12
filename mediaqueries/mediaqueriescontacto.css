@@ -38,7 +38,7 @@
 
 @media(max-width:767px) {
     .formulario-section {
-        margin-top: 60px;
+        margin-top: 0px;
     } 
     .container-contacto h2 {
         font-size: 25px;

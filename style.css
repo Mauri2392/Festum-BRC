@@ -222,7 +222,7 @@ section{
 
     .home {
         padding: 0;
-        margin-top: 80px;
+        margin-top: 60px;
     } 
     
     main {
@@ -235,6 +235,10 @@ section{
 @media (max-width: 768px){
     .home {
         margin-top: 60px;
+    } 
+
+    .home .slide{
+        min-height: 75vh;
     }
 
     #menu-btn{
@@ -1043,6 +1047,7 @@ footer p {
     font-size: 18px;
     margin-bottom: 20px;
 } 
+
 /* ---------------------------------------------- */ 
 
 /* ---------------------------------------------- */ 
